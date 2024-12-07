@@ -1,4 +1,4 @@
-# Marimba MRITC Demo Pipeline Data
+# Marimba MRITC Demo Data
 
 ## Overview
 
