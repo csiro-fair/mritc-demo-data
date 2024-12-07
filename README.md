@@ -70,7 +70,8 @@ This example data is licensed under [CC BY-NC-SA 4.0](license.txt).
    git clone https://github.com/csiro-fair/mritc-demo-data
    ```
 2. Follow the instructions in the Marimba MRITC Demo Pipeline
-[README.md](https://github.com/csiro-fair/mritc-demo-pipeline/README.md) file to process this data using Marimba
+[README.md](https://github.com/csiro-fair/mritc-demo-pipeline/blob/main/README.md) file to process this data using
+Marimba
 
 
 ## Contributing Organizations
