@@ -54,7 +54,7 @@ This down-sampled example data provides a manageable subset of data for research
 
 ## License
 
-This example data is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license](license.txt).
+This example data is licensed under [CC BY-NC-SA 4.0](license.txt).
 
 
 ## How to Use
@@ -63,7 +63,7 @@ This example data is licensed under the [Creative Commons Attribution-NonCommerc
    ```bash
    git clone https://github.com/csiro-fair/mritc-demo-data
    ```
-2. Follow the instructions in the [Marimba MRITC Demo Pipeline README.md](https://github.com/csiro-fair/mritc-demo-pipeline/README.md) file to process this data using Marimba
+2. Follow the instructions in the Marimba MRITC Demo Pipeline [README.md](https://github.com/csiro-fair/mritc-demo-pipeline/README.md) file to process this data using Marimba
 
 
 ## Contributing Organizations
