@@ -2,10 +2,10 @@
 
 ## Overview
 
-This Marimba Pipeline example data was derived from the RV _Investigator_ voyage IN2018_V06 which investigated the
-status and recovery of deep-sea coral communities on seamounts in Australian marine reserves. The original voyage took
-place between November 23 and December 19, 2018, from Hobart, Tasmania. This example data has been specifically curated
-as demonstration data for use with the [Marimba MRITC Demo Pipeline](https://github.com/csiro-fair/mritc-demo-pipeline)
+This Marimba example data was derived from the RV _Investigator_ voyage IN2018_V06 which investigated the status and
+recovery of deep-sea coral communities on seamounts in Australian marine reserves. The original voyage took place 
+between November 23 and December 19, 2018, from Hobart, Tasmania. This example data has been specifically curated as 
+demonstration data for use with the [Marimba MRITC Demo Pipeline](https://github.com/csiro-fair/mritc-demo-pipeline)
 demonstration code.
 
 
